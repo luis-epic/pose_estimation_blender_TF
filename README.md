@@ -29,8 +29,8 @@ I set the limit up to 30% of my GPU memory.
 2. Clone the repo and install 3rd-party libraries from requirements.txt.
 
 ```bash
-$ git clone https://github.c/OscarSantosMu/TF_pose_estimation_and_Blender
-$ cd TF_pose_estimation_and_Blender
+$ git clone https://github.com/luis-epic/pose_estimation_blender_TF.git
+$ cd pose_estimation_blender_TF
 $ pip install -r requirements.txt
 ```
 
